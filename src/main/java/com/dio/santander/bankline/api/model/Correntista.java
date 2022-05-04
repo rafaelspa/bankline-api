@@ -26,7 +26,7 @@ public class Correntista {
 	public Conta getConta() {
 		return conta;
 	}
-	public void getConta(Conta conta) {
+	public void setConta(Conta conta) {
 		this.conta = conta;
 	}
 	
